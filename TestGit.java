@@ -5,7 +5,6 @@ public class TestGit {
 	System.out.println("kim commit update");
 	
 
-	//master branch
 	System.out.println("master branch")
     }
 
