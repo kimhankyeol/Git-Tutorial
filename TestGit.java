@@ -6,7 +6,11 @@ public class TestGit {
 	
 
 	//develop branch
-	System.out.println("develop branch")
+	System.out.println("develop branch");
+
+
+	//git conflct  develop branch
+	System.out.println("develop conflict");
     }
 
 }
